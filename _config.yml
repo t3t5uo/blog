@@ -1,6 +1,6 @@
 # Blog settings
-permalink: /blog/:title
-baseurl: /blog
+permalink: /me/:title
+baseurl: /me
 
 
 # My variables

@@ -1,6 +1,6 @@
 # Blog settings
 permalink: /blog/:title
-baseurl: /blog
+baseurl: /blog/
 
 
 # My variables
